@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Bachelor Computer Science student at Shiraz university. 
+- 🔭 I am currently a Bachelor Computer Science student at Shiraz university. 
 - 📫 I can be found via email, or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-bastin/)
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadbastin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
